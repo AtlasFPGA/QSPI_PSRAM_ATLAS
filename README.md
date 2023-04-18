@@ -32,7 +32,7 @@ Señal  | MOSI | 1
 
 https://www.mouser.es/datasheet/2/949/w25m512jv_revd_09052017-1489569.pdf
 
-   Este tipo de memorias son muy usadas desde los microcontroladores ESP32 hasta controladores como los teensy.
+   Este tipo de memorias son muy usadas desde los microcontroladores ESP32 hasta controladores como los Teensy.
 
    Cara inferior QSPI ATLAS
 ![Cara inferior QSPI ATLAS](https://github.com/AtlasFPGA/QSPI_PSRAM_ATLAS/blob/main/FOTOS/ATLAS_QSPI_PSRAM-CAPA-INFERIOR-MUESTRA.jpg)
