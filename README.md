@@ -2,25 +2,29 @@
 
    Es una de las memorias más usadas las PSEUDOSRAM en formato SPI de 4 bit QSPI siendo su tensión de referencia en la alimentación 3v3, su tecnología no es SRAM clasica y necesitan muchas menos celdas para alcanzar tamaños considerables, el integrado escogido W25M512JV se trata de dos módulos internos de 32Mbytes, su configuración 2 x 256Mbit.
 ---
-   Bus de conexión QSPI.
-Señal -> /CS
-Señal -> CLK
-Señal -> IO0
-Señal -> IO1
-Señal -> IO2
-Señal -> IO3
 
-   Bus de conexión dual SPI:
-Señal -> /CS
-Señal -> CLK
-Señal -> IO0
-Señal -> IO1
+Bus de conexión QSPI:|
+--------------------------------
+Señal | /CS
+Señal | CLK
+Señal | IO0
+Señal | IO1
+Señal | IO2
+Señal | IO3
 
-   Bus SPI:
-Señal -> /CS
-Señal -> CLK
-Señal -> MISO
-Señal -> MOSI
+Bus de conexión Dual SPI:|
+--------------------------------
+Señal | /CS
+Señal | CLK
+Señal | IO0
+Señal | IO1
+
+Bus de conexión SPI:|
+--------------------------------
+Señal | /CS
+Señal | CLK
+Señal | MISO
+Señal | MOSI
 
 ---
 
