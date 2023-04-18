@@ -4,7 +4,9 @@
    Es una de las memorias más usadas las PSEUDOSRAM en formato SPI de 4 bit QSPI siendo su tensión de referencia en la alimentación 3v3, su tecnología no es SRAM clasica y necesitan muchas menos celdas para alcanzar tamaños considerables, el integrado escogido W25M512JV se trata de dos módulos internos de 32Mbytes, su configuración 2 x 256Mbit.
 
 
-   La pregunta que se puede plantear es, existe algúna comunidad que de soporte con código en lenguaje descriptor de hardware de estas memorias pseudo SRAM, si la comunidad detrás de Litex:
+   La pregunta que se puede plantear es.
+   ¿Existe algúna comunidad que de soporte con código en lenguaje descriptor de hardware de estas memorias Pseudo SRAM? 
+   Sí, la comunidad detrás de Litex:
    
 
 
