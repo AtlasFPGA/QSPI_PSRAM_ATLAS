@@ -18,7 +18,7 @@ Señal  | CLK | 1
 Señal  | IO0 | 1
 Señal  | IO1 | 1
 
-Bus de conexión SPI Dual | nombre señal | numero pines
+Bus de conexión SPI | nombre señal | numero pines
 | :--- | ---: | :---:
 Señal  | /CS | 1
 Señal  | CLK | 1
