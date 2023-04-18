@@ -42,7 +42,7 @@ Señal  | MOSI | 1
 https://www.mouser.es/datasheet/2/949/w25m512jv_revd_09052017-1489569.pdf
 
    Este tipo de memorias son muy usadas desde los microcontroladores ESP32 hasta controladores como los Teensy.
-   El factor precio es muy importante actualmente como escoger ua memoria que estén en almacén por ejemplo en mouser vemos que añadir esta memoria de 4bits cuesta menos de 7€, actualmente en el 18 de abril del 2024 son 6,66€.  
+   El factor precio es muy importante actualmente como escoger ua memoria que estén en almacén por ejemplo en mouser vemos que añadir esta memoria de 4bits cuesta menos de 7€, actualmente en el 18 de abril del 2023 son 6,66€.  
    
 https://www.mouser.es/ProductDetail/Winbond/W25M512JVEIQ-TR?qs=qSfuJ%252Bfl%2Fd6atrQZjNU60Q%3D%3D
 
