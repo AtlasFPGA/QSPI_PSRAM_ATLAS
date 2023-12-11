@@ -1,5 +1,6 @@
 # QSPI_PSRAM_ATLAS
 
+Group ATLAS in Telegram: https://t.me/INICIATIVAATLAS
 
    Es una de las memorias más usadas las PSEUDOSRAM en formato SPI de 4 bit QSPI siendo su tensión de referencia en la alimentación 3v3, su tecnología no es SRAM clasica y necesitan muchas menos celdas para alcanzar tamaños considerables, el integrado escogido W25M512JV se trata de dos módulos internos de 32Mbytes, su configuración 2 x 256Mbit.
 
